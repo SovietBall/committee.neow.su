@@ -1,2 +1,2 @@
 # Just...a...website...
-[Go to the website](https://www.kncc.su)
+[Go to the website](https://committee.neow.su)
